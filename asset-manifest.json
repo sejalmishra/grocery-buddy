@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/grocery-buddy/static/css/main.64eac6ae.chunk.css",
+    "main.js": "/grocery-buddy/static/js/main.7e4d204f.chunk.js",
+    "main.js.map": "/grocery-buddy/static/js/main.7e4d204f.chunk.js.map",
+    "runtime-main.js": "/grocery-buddy/static/js/runtime-main.1ed42d87.js",
+    "runtime-main.js.map": "/grocery-buddy/static/js/runtime-main.1ed42d87.js.map",
+    "static/js/2.8f482800.chunk.js": "/grocery-buddy/static/js/2.8f482800.chunk.js",
+    "static/js/2.8f482800.chunk.js.map": "/grocery-buddy/static/js/2.8f482800.chunk.js.map",
+    "index.html": "/grocery-buddy/index.html",
+    "static/css/main.64eac6ae.chunk.css.map": "/grocery-buddy/static/css/main.64eac6ae.chunk.css.map",
+    "static/js/2.8f482800.chunk.js.LICENSE.txt": "/grocery-buddy/static/js/2.8f482800.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ed42d87.js",
+    "static/js/2.8f482800.chunk.js",
+    "static/css/main.64eac6ae.chunk.css",
+    "static/js/main.7e4d204f.chunk.js"
+  ]
+}
